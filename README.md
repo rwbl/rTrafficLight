@@ -2,8 +2,8 @@
 rTrafficLight is an open source library to explore developing a B4R library from scratch.
 
 The purpose is to
-• control three LEDs Red-Yellow-Green using an Arduino UNO microcontroller for testing.
-• learn how to create library functions and to built the B4R library.
+* control three LEDs Red-Yellow-Green using an Arduino UNO microcontroller for testing.
+* learn how to create library functions and to built the B4R library.
 
 This B4R library
 * is written in C++ (using the Arduino IDE 1.8.9 and the B4Rh2xml tool).
